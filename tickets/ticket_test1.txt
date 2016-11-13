@@ -1,0 +1,10 @@
+1 * Blanc de poulet : 1.58
+1 * Saucisses : 1.39
+1 * Yaourt vanille : 2.50
+1 * Gâteau : 1.83
+1 * Moutarde : 1.32
+1 * Pur jus d'orange : 1.60
+1 * Nettoyant cuisine : 1.70
+1 * Coloration cheveux : 11.10
+1 * Dentifrice : 1.10
+Total : 24.12
