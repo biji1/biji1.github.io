@@ -1,6 +1,11 @@
-1 * Blanc de poulet : 1.58
-1 * Saucisses : 1.39
-1 * Yaourt vanille : 2.50
-1 * Gâteau : 1.83
-9 * Moutarde : 1.32
-Total : 11.12
+-----
+1 X Brioche_______________________1.10
+1 X Escalope de dinde_____________2.20
+1 X Salade________________________0.95
+1 X Tomate________________________1.35
+1 X Oignon________________________1.00
+1 X Sauce blanche_________________2.65
+1 X Soda 1.5L_____________________1.60
+TOTAL_____________________________10.85
+-----
+categorie : Course
