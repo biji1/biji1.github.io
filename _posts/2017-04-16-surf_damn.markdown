@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "surf_damn"
+date:   2017-04-16 13:37:00 +0000
+categories: mapping
+description: you will love the end
+---
+
+{% include youtubePlayer.html id="onWSIKrUGfM" %}
+
+{{ site.showcase }} [https://www.youtube.com/watch?v=onWSIKrUGfM][showcase]{:target="_blank"}
+
+{{ site.cssdl }} [http://gamebanana.com/maps/195097][cssdl]{:target="_blank"}
+
+{{ site.csgodl }} [http://gamebanana.com/maps/195098][csgodl]{:target="_blank"}
+
+[showcase]: https://www.youtube.com/watch?v=onWSIKrUGfM
+[cssdl]: http://gamebanana.com/maps/195097
+[csgodl]: http://gamebanana.com/maps/195098

@@ -19,3 +19,8 @@ paginate: 3
 gems: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
+
+# Mapping archive wording
+showcase: "showcase video:"
+cssdl: "download link (css):"
+csgodl: "download link (csgo):"
