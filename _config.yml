@@ -11,6 +11,7 @@ email: devbiji@gmail.com
 description: /home/biji
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biji1.github.io" # the base hostname & protocol for your site
+#url: "https://biji1-github-io-biji1.c9users.io"
 youtube_username: UberBiji
 twitter_username: UberBiji
 github_username: biji1

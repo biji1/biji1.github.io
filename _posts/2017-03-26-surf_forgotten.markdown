@@ -3,7 +3,7 @@ layout: post
 title:  "surf_forgotten"
 date:   2017-03-26 13:37:00 +0000
 categories: mapping
-description: the most random map i've made because i was bored, don't reproduce this at home
+description: the most random map i've made because i was bored
 ---
 
 {% include youtubePlayer.html id="XBuwBsSPDqU" %}

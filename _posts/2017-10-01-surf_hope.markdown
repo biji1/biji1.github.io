@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "surf_hope by Shadow Sheep"
+date:   2017-10-01 13:37:00 +0000
+categories: mapping
+description: (stage 3) the forgotten contest
+---
+
+{% include youtubePlayer.html id="M-riATXNv_8" %}
+
+{{ site.showcase }} [https://www.youtube.com/watch?v=M-riATXNv_8][showcase]{:target="_blank"}
+
+{{ site.cssdl }} [https://gamebanana.com/maps/197239][cssdl]{:target="_blank"}
+
+{{ site.csgodl }} [https://gamebanana.com/maps/197323][csgodl]{:target="_blank"}
+
+Contest during the month of July 2017 [https://www.resurfed.com/viewtopic.php?f=4&t=1969][contest]{:target="_blank"}
+
+[showcase]: https://www.youtube.com/watch?v=M-riATXNv_8
+[cssdl]: https://gamebanana.com/maps/197239
+[csgodl]: https://gamebanana.com/maps/197323
+[contest]: https://www.resurfed.com/viewtopic.php?f=4&t=1969
