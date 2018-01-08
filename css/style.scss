@@ -388,6 +388,7 @@ pre {
   letter-spacing: 2px;
   text-indent: 6px;
   font-family: 'Josefin Sans';
+  text-align: center;
 }
 .exclamationMark {
   padding-left: 2em;
@@ -497,6 +498,9 @@ pre {
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+}
+.footer-contact {
+  text-align: left;
 }
 .footer-content {
   font-family: "Josefin Sans";

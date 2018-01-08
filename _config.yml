@@ -13,6 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://biji1.github.io" # the base hostname & protocol for your site
 #url: "https://biji1-github-io-biji1.c9users.io"
 youtube_username: UberBiji
+steam_id: ENKULER2RIRE
+steam_username: biji
 twitter_username: UberBiji
 github_username: biji1
 paginate: 3

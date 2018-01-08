@@ -5,9 +5,10 @@
     <!-- <h2 class="footer-heading small-site-title">{{ site.title }}</h2> -->
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
+      
+      <div class="footer-col footer-col-1 footer-contact">
         <ul class="contact-list footer-content">
-          <li><a href="mailto:{{ site.email }}">contact me if you want</a></li>
+          <li><a href="mailto:{{ site.email }}">contact me</a></li>
         </ul>
       </div>
 
@@ -16,6 +17,12 @@
           {% if site.youtube_username %}
           <li>
             {% include icon-youtube.html username=site.youtube_username %}
+          </li>
+          {% endif %}
+          
+          {% if site.steam_id && site.steam_username %}
+          <li>
+            {% include icon-steam.html id=site.steam_id username=site.steam_username %}
           </li>
           {% endif %}
 
