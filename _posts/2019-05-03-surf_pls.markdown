@@ -12,5 +12,8 @@ description: hidden sequel of surf_damn
 
 {{ site.cssdl }} [https://gamebanana.com/maps/204849][cssdl]{:target="_blank"}
 
+{{ site.csgodl }} [https://gamebanana.com/maps/206452][csgodl]{:target="_blank"}
+
 [showcase]: https://www.youtube.com/watch?v=ccYDvKET5z4
 [cssdl]: https://gamebanana.com/maps/204849
+[csgodl]: https://gamebanana.com/maps/206452
