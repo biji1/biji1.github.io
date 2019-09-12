@@ -3,7 +3,7 @@ layout: post
 title:  "surf_zen2 by mr.25"
 date:   2018-12-30 13:37:00 +0000
 categories: mapping
-description: dropped like a bomb
+description: (bonus 2) dropped like a bomb
 ---
 
 {% include youtubePlayer.html id="t0KSVKKhL9I" %}

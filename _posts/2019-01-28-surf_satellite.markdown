@@ -3,7 +3,7 @@ layout: post
 title:  "surf_satellite by iNooVa and biji"
 date:   2019-01-28 13:37:00 +0000
 categories: mapping
-description: rushed entry for the surf mapping contest
+description: (main surf) rushed entry for the surf mapping contest
 ---
 
 {% include youtubePlayer.html id="1vVMM08eWW4" %}
