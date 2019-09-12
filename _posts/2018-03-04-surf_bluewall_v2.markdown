@@ -3,7 +3,7 @@ layout: post
 title:  "surf_bluewall_v2"
 date:   2018-03-04 13:37:00 +0000
 categories: mapping
-description: ported version of the greatest map (with additional bonuses)
+description: ported version of the greatest map with additional bonuses
 ---
 
 {% include youtubePlayer.html id="eTKTueaRbr4" %}

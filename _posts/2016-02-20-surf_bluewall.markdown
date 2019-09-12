@@ -3,7 +3,7 @@ layout: post
 title:  "surf_bluewall"
 date:   2016-02-20 13:37:00 +0000
 categories: mapping
-description: my first surf map
+description: first surf map
 ---
 
 {% include youtubePlayer.html id="PdRxJhRdZk0" %}

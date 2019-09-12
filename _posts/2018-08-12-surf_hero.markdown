@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "surf_hero"
+date:   2018-08-12 13:37:00 +0000
+categories: mapping
+description: real slammed pigeon flying through the sky
+---
+
+{% include youtubePlayer.html id="lCxImsFFptY" %}
+
+{{ site.showcase }} [https://www.youtube.com/watch?v=lCxImsFFptY][showcase]{:target="_blank"}
+
+{{ site.cssdl }} [https://gamebanana.com/maps/201181][cssdl]{:target="_blank"}
+
+{{ site.csgodl }} [https://gamebanana.com/maps/201188][csgodl]{:target="_blank"}
+
+[showcase]: https://www.youtube.com/watch?v=lCxImsFFptY
+[cssdl]: https://gamebanana.com/maps/201181
+[csgodl]: https://gamebanana.com/maps/201188

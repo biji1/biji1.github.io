@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "surf_zen2 by mr.25"
+date:   2018-12-30 13:37:00 +0000
+categories: mapping
+description: dropped like a bomb
+---
+
+{% include youtubePlayer.html id="t0KSVKKhL9I" %}
+
+{{ site.showcase }} [https://www.youtube.com/watch?v=t0KSVKKhL9I][showcase]{:target="_blank"}
+
+{{ site.cssdl }} [https://gamebanana.com/maps/202871][cssdl]{:target="_blank"}
+
+[showcase]: https://www.youtube.com/watch?v=t0KSVKKhL9I
+[cssdl]: https://gamebanana.com/maps/202871

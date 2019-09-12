@@ -3,7 +3,7 @@ layout: post
 title:  "surf_christmas2 by Tioga060"
 date:   2016-12-25 13:37:00 +0000
 categories: mapping
-description: (stage 6) first collab ever. was a really fun experience
+description: (stage 6) first collab
 ---
 
 {% include youtubePlayer.html id="MtvVToQeA84" %}

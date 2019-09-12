@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "surf_pls"
+date:   2019-05-03 13:37:00 +0000
+categories: mapping
+description: hidden sequel of surf_damn
+---
+
+{% include youtubePlayer.html id="ccYDvKET5z4" %}
+
+{{ site.showcase }} [https://www.youtube.com/watch?v=ccYDvKET5z4][showcase]{:target="_blank"}
+
+{{ site.cssdl }} [https://gamebanana.com/maps/204849][cssdl]{:target="_blank"}
+
+[showcase]: https://www.youtube.com/watch?v=ccYDvKET5z4
+[cssdl]: https://gamebanana.com/maps/204849
