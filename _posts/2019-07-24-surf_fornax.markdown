@@ -3,7 +3,7 @@ layout: post
 title:  "surf_fornax by iNooVa"
 date:   2019-07-24 13:37:00 +0000
 categories: mapping
-description: (bonus 2) if faciliy and axiom had a baby
+description: (bonus 2) if facility and axiom had a baby
 ---
 
 {% include youtubePlayer.html id="9lQoiqoUL-I" %}

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "surf_pls"
+title:  "surf_froots2 hosted by Krazy"
 date:   2019-07-17 13:37:00 +0000
 categories: mapping
-description: (stage 11: cheezburga) nobody was prepared for it
+description: (stage 11 aka cheezburga) nobody was prepared enough
 ---
 
 {% include youtubePlayer.html id="e9Difx3pFZw" %}
